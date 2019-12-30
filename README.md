@@ -35,5 +35,6 @@ C:/Users/$username$/AppData/Local/Programs/(Python)/Python$version-subversion$/L
 And put it in there!
 Also the (Python) is for the fact that you may not have this folder!
 After doing all those things
-========================
+you do:
+
 from database import *
