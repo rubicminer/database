@@ -1,4 +1,4 @@
-#Made by rubicminer
+# Made by rubicminer
 from os import remove as osremove
 
 
