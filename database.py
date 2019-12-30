@@ -1,5 +1,5 @@
 #Made by rubicminer
-from os import getcwd, remove as osremove
+from os import remove as osremove
 
 
 class database(object):
