@@ -42,6 +42,3 @@ class database(object):
         if cls.database is not None:
             osremove(cls.database)
             cls.database = None
-
-
-database.
