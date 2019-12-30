@@ -1,0 +1,6 @@
+to import this file you can put it in the same directory as your .py file is
+but this is not certain to work always and you may want to use it in all of your projects
+in that case go to:
+C:/Users/$username$/AppData/Local/Programs/(Python)/Python$version-subversion$/Lib/
+And put it in there!
+Also the (Python) is for the fact that you may not have this folder!
